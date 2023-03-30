@@ -13,10 +13,7 @@ function Hero() {
                                 <div class="hero-text">
                                     <h5 class="wow fadeInUp" data-wow-delay=".3s">Start to learning Today</h5>
                                     <h1 class="wow fadeInUp" data-wow-delay=".5s">Innovation Paradise<br /> For Students </h1>
-                                    <p class="wow fadeInUp" data-wow-delay=".7s">Lorem Ipsum is simply dummy text of the
-                                        printing and typesetting <br /> industry. Lorem Ipsum has been the industry's
-                                        standard
-                                        <br />dummy text ever since an to impression.</p>
+                                    <p class="wow fadeInUp" data-wow-delay=".7s">A university is an institution of higher education <br /> that provides undergraduate and graduate education, as well as research opportunities, <br /> in a wide range of academic fields. </p>
                                     <div class="button wow fadeInUp" data-wow-delay=".9s">
                                         <a href="about-us.html" class="btn">Learn More</a>
                                         <a href="events-grid.html" class="btn alt-btn">Our Events</a>

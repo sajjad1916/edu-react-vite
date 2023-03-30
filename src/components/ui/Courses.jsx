@@ -17,8 +17,7 @@ function Courses() {
                             <i class="lni lni-graduation"></i>
                         </div>
                         <h2 class="wow fadeInUp" data-wow-delay=".4s">Featured Courses</h2>
-                        <p class="wow fadeInUp" data-wow-delay=".6s">There are many variations of passages of Lorem
-                            Ipsum available, but the majority have suffered alteration in some form.</p>
+                        <p class="wow fadeInUp" data-wow-delay=".6s">There are many variations of passages of Courses available, but the majority have suffered alteration in some form.</p>
                     </div>
                 </div>
             </div>
